@@ -1,0 +1,14 @@
+{
+    "urls":{
+        "base":"",
+        "Institutional":{
+            "aboutUs":"",
+            "ContactUs":"http://automationpractice.com/index.php?controller=contact",
+            "OurStores":"http://automationpractice.com/index.php?controller=stores",
+            "siteMap":"http://automationpractice.com/index.php?controller=sitemap",
+            "termsAndConditions":"http://automationpractice.com/index.php?id_cms=3&controller=cms"
+        },
+        "login":{},
+        "productsSales":{}   
+    }
+}
