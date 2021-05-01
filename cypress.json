@@ -1,3 +1,7 @@
 {
-    "retries": 3
+    "retries": 3,
+    "reporter": "nyan",
+    "reporterOptions": {
+        "toConsole": true
+    }
 }
